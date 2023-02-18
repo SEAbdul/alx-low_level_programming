@@ -1,9 +1,10 @@
 #include <stdio.h>
+
 /**
- * main -This is the main description
+ * main - This is the main description
  *
- * Return : Always (0) (success)
-*/
+ * Return: Always 0
+ */
 
 int main(void)
 {
